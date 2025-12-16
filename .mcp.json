@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "workshop_mcp": {
+      "type": "stdio",
+      "command": "./run_mcp_server.sh",
+      "args": [],
+      "env": {}
+    }
+  }
+}
