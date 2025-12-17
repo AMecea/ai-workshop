@@ -1,0 +1,15 @@
+{
+  "apiKeyHelper": "./.claude/api_key.sh",
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(.venv/bin/pip install:*)",
+      "Bash(.venv/bin/python:*)",
+      "Bash(cat:*)",
+      "Bash(.venv/bin/pytest:*)",
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "workshop_mcp"
+  ]
+}
