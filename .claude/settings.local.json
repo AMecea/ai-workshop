@@ -6,7 +6,7 @@
       "Bash(.venv/bin/pip install:*)",
       "Bash(.venv/bin/python:*)",
       "Bash(cat:*)",
-      "Bash(.venv/bin/pytest:*)",
+      "Bash(.venv/bin/pytest:*)"
     ]
   },
   "enabledMcpjsonServers": [
